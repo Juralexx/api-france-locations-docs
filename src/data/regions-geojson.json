@@ -1,0 +1,29 @@
+{
+    "_id": {
+        "$oid": "63d2dddcb1611a45ca8cfcf9"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    2.590524,
+                    49.079655
+                ],
+                [
+                    2.609132,
+                    49.091558
+                ],
+                [
+                    2.610339,
+                    49.094943
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "nom": "Île-de-France",
+        "code": "11"
+    }
+}

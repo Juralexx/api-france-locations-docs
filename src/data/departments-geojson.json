@@ -1,0 +1,35 @@
+{
+    "_id": {
+        "$oid": "63d2de22b1611a45ca8cfd16"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+            [
+                [
+                    [
+                        -61.79038,
+                        16.16682
+                    ],
+                    [
+                        -61.79164,
+                        16.1671
+                    ]
+                ]
+            ],
+            [
+                [
+                    [
+                        -61.49116,
+                        16.19804
+                    ]
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "code": "971",
+        "nom": "Guadeloupe"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "_id": {
+        "$oid": "63d4134a9d97315de115d500"
+    },
+    "code_region": 2,
+    "nom_region": "Martinique",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.682,
+            -61.023
+        ]
+    }
+}

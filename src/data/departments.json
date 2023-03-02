@@ -1,0 +1,18 @@
+{
+    "_id": {
+        "$oid": "63d4131a9d97315de115d49c"
+    },
+    "code_departement": 5,
+    "nom_departement": "Hautes-Alpes",
+    "code_nouvelle_region": 93,
+    "nom_nouvelle_region": "Provence-Alpes-Côte d'Azur",
+    "code_ancienne_region": 93,
+    "nom_ancienne_region": "Provence-Alpes-Côte d'Azur",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.6667,
+            6.5
+        ]
+    }
+}

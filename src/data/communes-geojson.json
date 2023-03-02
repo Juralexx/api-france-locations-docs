@@ -1,0 +1,31 @@
+{
+    "_id": {
+        "$oid": "63d2d5dbb1611a45ca8c46dd"
+    },
+    "type": "Feature",
+    "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+            [
+                [
+                    [
+                        -61.54884,
+                        16.25312
+                    ]
+                ]
+            ],
+            [
+                [
+                    [
+                        -61.55552,
+                        16.28638
+                    ]
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "code": "97101",
+        "nom": "Abymes"
+    }
+}
